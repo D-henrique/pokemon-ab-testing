@@ -79,7 +79,7 @@ Aplicação do **t-test de Welch** (`scipy.stats.ttest_ind`) para comparar as ta
 
 ## 📊 Resultado
 
-![Resultado do A/B Test](outputs/ab_test_result.png)
+![Resultado do A/B Test](outputs/ab_test_result_ptbr.png)
 
 | Métrica | Grupo A (Físico) | Grupo B (Especial) |
 |---|---|---|
